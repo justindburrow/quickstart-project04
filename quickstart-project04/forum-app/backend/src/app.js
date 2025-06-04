@@ -1,7 +1,5 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const authRoutes = require('./routes/authRoutes');
-const questionRoutes = require('./routes/questionRoutes');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 require('dotenv').config(); // <-- Add this line
@@ -22,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI, { // <-- Use env variable here
 .catch(err => console.error('MongoDB connection error:', err));
 
 // Routes
-app.use('/api/auth', authRoutes);
+app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/questions', questionRoutes);
 
 // Start the server
