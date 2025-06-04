@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/quickstart-project04/static/css/main.bc6467f4.chunk.css",
-    "main.js": "/quickstart-project04/static/js/main.b638a0d1.chunk.js",
-    "main.js.map": "/quickstart-project04/static/js/main.b638a0d1.chunk.js.map",
+    "main.js": "/quickstart-project04/static/js/main.37192c02.chunk.js",
+    "main.js.map": "/quickstart-project04/static/js/main.37192c02.chunk.js.map",
     "runtime-main.js": "/quickstart-project04/static/js/runtime-main.e96a26c8.js",
     "runtime-main.js.map": "/quickstart-project04/static/js/runtime-main.e96a26c8.js.map",
-    "static/js/2.9cb31e47.chunk.js": "/quickstart-project04/static/js/2.9cb31e47.chunk.js",
-    "static/js/2.9cb31e47.chunk.js.map": "/quickstart-project04/static/js/2.9cb31e47.chunk.js.map",
+    "static/js/2.ef69f3d0.chunk.js": "/quickstart-project04/static/js/2.ef69f3d0.chunk.js",
+    "static/js/2.ef69f3d0.chunk.js.map": "/quickstart-project04/static/js/2.ef69f3d0.chunk.js.map",
     "index.html": "/quickstart-project04/index.html",
     "static/css/main.bc6467f4.chunk.css.map": "/quickstart-project04/static/css/main.bc6467f4.chunk.css.map",
-    "static/js/2.9cb31e47.chunk.js.LICENSE.txt": "/quickstart-project04/static/js/2.9cb31e47.chunk.js.LICENSE.txt"
+    "static/js/2.ef69f3d0.chunk.js.LICENSE.txt": "/quickstart-project04/static/js/2.ef69f3d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e96a26c8.js",
-    "static/js/2.9cb31e47.chunk.js",
+    "static/js/2.ef69f3d0.chunk.js",
     "static/css/main.bc6467f4.chunk.css",
-    "static/js/main.b638a0d1.chunk.js"
+    "static/js/main.37192c02.chunk.js"
   ]
 }
