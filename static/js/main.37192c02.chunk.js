@@ -1,2 +1,0 @@
-(this["webpackJsonpforum-app-frontend"]=this["webpackJsonpforum-app-frontend"]||[]).push([[0],{14:function(e,t,n){"use strict";n.r(t);var r=n(0),o=n.n(r),c=n(6),s=n.n(c),a=(n(2),n(4),n(3));n(5);n(8);var d=function(){return Object(a.jsx)("h1",{style:{color:"red"},children:"Hello from React!"})};s.a.render(Object(a.jsx)(o.a.StrictMode,{children:Object(a.jsx)(d,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[14,1,2]]]);
-//# sourceMappingURL=main.37192c02.chunk.js.map
